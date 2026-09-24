@@ -52,7 +52,7 @@ const Login = () => {
         <div className="container">
           <div className="header">
             <img src="/careerconnect-black.png" alt="logo" />
-            <h3>Login to your account - webhook test</h3>
+            <h3>Login to your account - Jenkins webhook test</h3>
           </div>
           <form>
             <div className="inputTag">
